@@ -1,4 +1,2 @@
 Library/
-/.vs/
-/.gitignore
-/.gitattributes
+obj/
