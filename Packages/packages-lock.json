@@ -112,7 +112,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.render-pipelines.core": {
-      "version": "8.2.0",
+      "version": "9.0.0-preview.77",
       "depth": 1,
       "source": "registry",
       "dependencies": {
@@ -137,7 +137,7 @@
       "depth": 0,
       "source": "local",
       "dependencies": {
-        "com.unity.render-pipelines.core": "7.3.1"
+        "com.unity.render-pipelines.core": "9.0.0-preview.77"
       }
     },
     "com.unity.searcher": {
