@@ -1,4 +1,4 @@
 Library/
-.vs/
-.gitignore
-.gitattributes
+/.vs/
+/.gitignore
+/.gitattributes
